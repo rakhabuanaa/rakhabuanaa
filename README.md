@@ -16,7 +16,7 @@
 Seorang developer yang sedang belajar dan membangun berbagai proyek web, terutama di bidang **sertifikasi produk** dan **pertanian**.
 
 - 🔭 Saat ini sedang fokus mendalami pengembangan web menggunakan **PHP & Laravel**
-- 🌾 Pernah magang di **BRMP SDLP (Balai Riset Mekanisasi Pertanian)** — mengerjakan proyek web & 3D modeling IoT
+- 🌾 Pernah magang di **BRMP SDLP (Balai Besar Perakitan dan Modernisasi Sumber Daya Lahan Pertanian)** — mengerjakan proyek          web & IoT
 - 💻 Suka merapikan kode dan mengeksplorasi *tools* AI untuk produktivitas
 - 🌱 Terus belajar dan berkembang di dunia web development
 
